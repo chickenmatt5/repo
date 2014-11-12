@@ -1,0 +1,12 @@
+Origin: chickenmatt5 repo
+Label: chickenmatt5 repo
+Suite: stable
+Version: 1.0
+Codename: obelisk
+Architectures: iphoneos-arm
+Components: main
+Description: chickenmatt5's GitHub repo
+MD5Sum:
+8201279269e946631fe2530885882f37 2409 Packages
+66f8b6f0016d938469e42a167062362d 904 Packages.gz
+86b0137ddfe297b609200d24d78114d2 1037 Packages.bz2
