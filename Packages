@@ -1,0 +1,86 @@
+Package: com.chickenmatt5.automagic
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
+Depends: mobilesubstrate (>= 0.9.4001), com.saurik.substrate.safemode (>= 0.9.3999.6), preferenceloader (>= 2.2.1-1)
+Conflicts: com.myrepospace.ipwndapple.bootstrap, mobilesubstrate (>= 0.9.5000)
+Filename: ./repo/com.chickenmatt5.automagic.deb
+Size: 130060
+MD5sum: 6a232af566225af818144e7bda281418
+SHA1: 59a4717a54844b138a134ee6164b942a7456dc0b
+SHA256: 08a9371619181c398faaf8fd95e5818f01ac9f73937ff015ee2fb95e056ae302
+Section: System
+Description: THIS PACKAGE IS OBSOLETE DUE TO THE UPDATED CYDIA SUBSTRATE! Bootstrap, without the extras. Upon boot, uses a launch daemon that executes a script that installs local versions of Mobile Substrate v0.9.4001, Substrate Safemode v0.9.3999.6, and Preference Loader v2.2.1-1. I take no credit for those 3 packages.
+Author: chickenmatt5 <chickenmatt5@icloud.com>
+Name: automagic
+
+Package: com.noeliel.ubercontrols
+Version: 1.0-32
+Architecture: iphoneos-arm
+Maintainer: Noeliel
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./Documents/com.noeliel.ubercontrols_1.0-32_iphoneos-arm.deb
+Size: 7510
+MD5sum: ad1027976782abe79b0cad7940be0a60
+SHA1: 64c15e81f72773673c73eb39c7916422ae18c303
+SHA256: 9cea7348fa530ad50cf47a09e1474c60ff101f9b5300676e7e62b20677138394
+Section: Tweaks
+Description: Improved Power Down Screen.
+Author: Noeliel
+Name: UberControls
+
+Package: com.saurik.substrate.safemode
+Version: 0.9.3999.6
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: mobilesubstrate (>= 0.9.3367+38)
+Filename: ./com.chickenmatt5.automagic/var/automagic/safemode.deb
+Size: 8638
+MD5sum: 493dffac2b9e983406ee95fe7cd956c1
+SHA1: a62fbecde5efc25e2b4abd9aaf44f4df12e5611c
+SHA256: 4efb8ff0fd3c1b6e135c629ca4f2eb52c40c6d41046b61d36aab0a4a050f4627
+Section: Tweaks
+Priority: optional
+Description: safe mode safety extension (safe)
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: Substrate Safe Mode
+
+Package: mobilesubstrate
+Version: 0.9.4001
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: com.saurik.substrate.safemode
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110)
+Filename: ./com.chickenmatt5.automagic/var/automagic/mobilesubstrate.deb
+Size: 107814
+MD5sum: a30bca4d9e913b00a2aae0fdb6397941
+SHA1: 7061fde64b6bde2de003c1ad03d679c02ff86572
+SHA256: 299cd1fef328f4eb4b96c216b5cc9e01fefce1df86496ab1bc43f26cd9d9b876
+Section: System
+Priority: optional
+Description: powerful code insertion platform
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/mobilesubstrate/
+Name: Mobile Substrate
+
+Package: preferenceloader
+Version: 2.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Dustin Howett <dustin@howett.net>
+Installed-Size: 52
+Depends: mobilesubstrate
+Filename: ./com.chickenmatt5.automagic/var/automagic/prefloader.deb
+Size: 13098
+MD5sum: 3bdbb9709751cd82bce15f2d0bb8cb9d
+SHA1: 39e246946df91392857e117ad2319c050dfe6177
+SHA256: 5a0f415ee236b07c2d97058c97b43bae4be2e53286c6dde1d68e0a166982917e
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Dustin Howett <dustin@howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
+
