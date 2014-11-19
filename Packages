@@ -1,28 +1,43 @@
 Package: com.chickenmatt5.cydiatimeout2
-Version: 0.1
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
-Conflicts: com.chickenmatt5.cydiatimeout5
+Conflicts: com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout20
 Filename: ./com.chickenmatt5.cydiatimeout2.deb
-Size: 758
-MD5sum: fa57f15d7bb09bda06663e2d61e73637
-SHA1: 3d605368ccd9f78ecdf510fb85ca941aac953017
-SHA256: f5950113671006955801bb62edd262af5aee6dbaddb5a8e66618999ba5b0baf0
+Size: 768
+MD5sum: bd89a74975468ddbfc3f28a868076fba
+SHA1: 7c22877e108904886b1729cd05a03ee56ca39760
+SHA256: 591d004c49b9c3125ad6cd5939dcccc741613ec7e5af9bfbbeae18ec48135c62
 Section: System
 Description: Force Cydia to only spend two seconds trying to refresh each source. Cuts down on overall refresh time.
 Author: chickenmatt5 <chickenmatt5@icloud.com>
 Name: Cydia Timeout 2
 
-Package: com.chickenmatt5.cydiatimeout5
+Package: com.chickenmatt5.cydiatimeout20
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
-Conflicts: com.chickenmatt5.cydiatimeout2
+Conflicts: com.chickenmatt5.cydiatimeout5, com.chickenmatt5.cydiatimeout2
+Filename: ./com.chickenmatt5.cydiatimeout20.deb
+Size: 772
+MD5sum: 8e6ce81e2d5278655fd7d5495fc4be54
+SHA1: 351c9a52149f09324e920735133dd61ae1b52d56
+SHA256: 8aa3133d3c2c6fb63411813b5ed423171a1b778f19447751022609d9173571b6
+Section: System
+Description: Force Cydia to only spend twenty seconds trying to refresh each source. May cut down on overall refresh time.
+Author: chickenmatt5 <chickenmatt5@icloud.com>
+Name: Cydia Timeout 20
+
+Package: com.chickenmatt5.cydiatimeout5
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
+Conflicts: com.chickenmatt5.cydiatimeout2, com.chickenmatt5.cydiatimeout20
 Filename: ./com.chickenmatt5.cydiatimeout5.deb
-Size: 760
-MD5sum: 6061b60e26bfca92ba89a3c4fcbd9ba3
-SHA1: 18b2547b3317d93ef2ba34f0dc63480fa5f4dc9c
-SHA256: a904e91e68c921102af76174d579b5496860174c4c2cec61674166d4280103f0
+Size: 758
+MD5sum: 43fa38ae7eafed7fc3c7495565527e3a
+SHA1: 2a6632248d1d5d1e59450e2b5869a0380c5ff089
+SHA256: 6489d3c150ad92535d11dff0551c940a6944a6a2a590c479213c82e68b6d90bb
 Section: System
 Description: Force Cydia to only spend five seconds trying to refresh each source. Cuts down on overall refresh time.
 Author: chickenmatt5 <chickenmatt5@icloud.com>
