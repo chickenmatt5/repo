@@ -3,7 +3,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
 Conflicts: com.chickenmatt5.cydiatimeout5
-Filename: ./repo/com.chickenmatt5.cydiatimeout2.deb
+Filename: ./com.chickenmatt5.cydiatimeout2.deb
 Size: 758
 MD5sum: fa57f15d7bb09bda06663e2d61e73637
 SHA1: 3d605368ccd9f78ecdf510fb85ca941aac953017
@@ -18,7 +18,7 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
 Conflicts: com.chickenmatt5.cydiatimeout2
-Filename: ./repo/com.chickenmatt5.cydiatimeout5.deb
+Filename: ./com.chickenmatt5.cydiatimeout5.deb
 Size: 760
 MD5sum: 6061b60e26bfca92ba89a3c4fcbd9ba3
 SHA1: 18b2547b3317d93ef2ba34f0dc63480fa5f4dc9c
