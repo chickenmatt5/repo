@@ -18,10 +18,10 @@ Architecture: iphoneos-arm
 Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
 Depends: cydget
 Filename: ./com.chickenmatt5.wplscydget.deb
-Size: 1048244
-MD5sum: e7cae01dc25e564353c732142fceb669
-SHA1: 6f650eebc631e03ce4b60b9811bd173783ba3ca6
-SHA256: 0e68c874fed3c7bf6f38223eceb2ee02d2202071fd8cec10f408e83cf1f2d4e8
+Size: 1048254
+MD5sum: 4150b4bc3238ab13fdd1cb757062f262
+SHA1: a80c2cb02c75900cddbc909040b2a479b6d89caf
+SHA256: 9dc1d87d1137a395561a61c2990e5e872bc9bf78184869682a78d39c54471ed1
 Description: Lockscreen designed to look like the Windows Phone lockscreen. Compatible with iPhone 5. Customize location and wallpaper in System/Library/LockCydgets/ WPLS.cydget/LockBackground.html
 Author: chickenmatt5 <chickenmatt5@icloud.com>
 Name: WP LS Cydget (iPhone 5)
