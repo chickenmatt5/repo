@@ -1,3 +1,18 @@
+Package: com.chickenmatt5.WPLScydget
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
+Depends: cydget
+Filename: ./com.chickenmatt5.wplscydget.deb
+Size: 1048190
+MD5sum: 0b9804f795be0ad67344ac94413273b0
+SHA1: 66929098975a5c52e27df6be178a6baac449f003
+SHA256: aa56deb1882acfc4c63b87532fbe7b9d3a9607cef446de52a21866fea542a729
+Section: Addons (Cydget)
+Description: Lockscreen designed to look like the Windows Phone lockscreen. Customize location and wallpaper in System/Library/LockCydgets/WPLS.cydget/LockBackground.html
+Author: chickenmatt5 <chickenmatt5@icloud.com>
+Name: Windows Phone Lockscreen Cydget
+
 Package: com.chickenmatt5.cydiatimeout2
 Version: 0.1.1
 Architecture: iphoneos-arm
