@@ -28,6 +28,22 @@ Description: Lockscreen designed to look like the Windows Phone lockscreen. Comp
 Author: chickenmatt5 <chickenmatt5@icloud.com>
 Name: WP LS Cydget (iPhone 5)
 
+Package: com.chickenmatt5.WPLSucydget
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
+Depends: cydget
+Filename: ./com.chickenmatt5.wplsucydget.deb
+Size: 89714
+MD5sum: 66c6524ebc2c1c76d8e0c9f116b4054e
+SHA1: d27a706bdae340d8dc0f1ae5532add11ba96cf56
+SHA256: 9a336aaa2a2c8cb6cad24e7f076999cd66863dcad53ff086aa17109c01ebba39
+Section: Addons (Cydget)
+Description: Mimic Windows Phone's lockscreen!
+Author: chickenmatt5 <chickenmatt5@icloud.com>
+Depiction: https://raw.githubusercontent.com/chickenmatt5/repo/gh-pages/desc/wplsu/index.html
+Name: WPLS Cydget (Universal)
+
 Package: com.chickenmatt5.cydiatimeout2
 Version: 0.1.1
 Architecture: iphoneos-arm
