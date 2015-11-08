@@ -7,6 +7,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: chickenmatt5's GitHub repo
 MD5Sum:
-f345b1e4636eb89ee35a8515dbff861b 3800 Packages
-d28a13e1a50f1f38bd5b4699c151a237 1208 Packages.gz
-2d7717a86454d62179e539ac24f114ec 1361 Packages.bz2
+eb690152c543ce0d6153b25051dcd9ad 2475 Packages
+08621bc97c561fc7de0d01e5d9d6fd44 872 Packages.gz
+c8a677e14ffb29b487eaa6db194924cf 992 Packages.bz2
+2

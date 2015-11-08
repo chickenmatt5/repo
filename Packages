@@ -1,43 +1,13 @@
-Package: com.chickenmatt5.WPLS6cydget
-Version: 1
-Architecture: iphoneos-arm
-Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
-Depends: cydget
-Filename: ./com.chickenmatt5.wpls6cydget.deb
-Size: 729498
-MD5sum: 3e1007122ca3123fb6d28694e7681a5e
-SHA1: 506503ee158fb84314ef081876d6c6145f43982c
-SHA256: eb831f7c18b7f8855604d37308c50e0b442989bd692caa399b537b8360b44ab0
-Section: Addons (Cydget)
-Description: Lockscreen designed to look like the Windows Phone lockscreen. Compatible with iPhone 6. Customize location and wallpaper in System/Library/LockCydgets/ WPLS.cydget/LockBackground.html
-Author: chickenmatt5 <chickenmatt5@icloud.com>
-Name: WP LS Cydget (iPhone 6)
-
-Package: com.chickenmatt5.WPLScydget
-Version: 2
-Architecture: iphoneos-arm
-Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
-Depends: cydget
-Filename: ./com.chickenmatt5.wplscydget.deb
-Size: 1048268
-MD5sum: dfdf83f51bb541ac5a48c2c91057d74e
-SHA1: 5857d0ce1ace3c96578083d98b8528b7764a4403
-SHA256: 5e84f60f5e8b94a287e5833ccfb04c3e881fbd50d155cb6600fa7ccee0aa3a72
-Section: Addons (Cydget)
-Description: Lockscreen designed to look like the Windows Phone lockscreen. Compatible with iPhone 5. Customize location and wallpaper in System/Library/LockCydgets/ WPLS.cydget/LockBackground.html
-Author: chickenmatt5 <chickenmatt5@icloud.com>
-Name: WP LS Cydget (iPhone 5)
-
 Package: com.chickenmatt5.WPLSucydget
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
 Depends: cydget
 Filename: ./com.chickenmatt5.wplsucydget.deb
-Size: 89694
-MD5sum: 169b80570da1010f83f27d9b7253171c
-SHA1: d09f30e860177f38040da93856581f5620c0b57c
-SHA256: 659aded78c373e9dddd780df20d009594b9fb0e1ad97b2e468523e64c241bfdf
+Size: 88490
+MD5sum: ba44fdc22eb182cb28fc12d0a328ade7
+SHA1: 49dbe980681e687e962da09c2a6cef6df83bf329
+SHA256: 459b1a76f232f103e12bad586a36c2328d1f528244873ba7ee67e4baa28c646c
 Section: Addons (Cydget)
 Description: Mimic Windows Phone's lockscreen!
 Author: chickenmatt5 <chickenmatt5@icloud.com>
