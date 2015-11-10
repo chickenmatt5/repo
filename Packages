@@ -1,13 +1,13 @@
 Package: com.chickenmatt5.WPLSucydget
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: chickenmatt5 <chickenmatt5@icloud.com>
 Depends: cydget
 Filename: ./com.chickenmatt5.wplsucydget.deb
-Size: 89386
-MD5sum: 87292ddd6cbc10cae7a65c8e4c5c835d
-SHA1: eef9d0c2750c8179ee47af90d96d1e5f6233d852
-SHA256: bb1cbf1352d21c20a47fc3387923814f229e3943a6ba2b3c1783708a1a59fe6f
+Size: 89464
+MD5sum: 0e28479b26c73794b7a7e2d03a64bcaf
+SHA1: 26cef8d35997facd5234c5ef684732e0992a1843
+SHA256: 6d18fcf25009910cf69e299257de59642f6e31015b5f9fb8065c87f6ed215d79
 Section: Addons (Cydget)
 Description: Mimic Windows Phone's lockscreen!
 Author: chickenmatt5 <chickenmatt5@icloud.com>
